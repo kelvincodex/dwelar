@@ -227,7 +227,7 @@
 {{--                    <!-- End Tour - Mega Menu -->--}}
                 </li>
                 <!-- End Tour -->
-
+{{--
                 <!-- Activity -->
                 <li class="nav-item hs-has-sub-menu u-header__nav-item" data-event="hover" data-animation-in="slideInUp" data-animation-out="fadeOut">
                     <a id="ActivityMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle u-header__nav-link-border" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="ActivitySubMenu">Activity</a>
@@ -332,6 +332,7 @@
                     <!-- End Pages - Mega Menu -->
                 </li>
                 <!-- End Pages -->
+                --}}
             </ul>
         </div>
         <!-- End Navigation -->
@@ -496,6 +497,7 @@
                         <!-- End Tour - Mega Menu -->
                     </li>
                     <!-- End Tour -->
+{{--
 
                     <!-- Activity -->
                     <li class="nav-item hs-has-sub-menu u-header__nav-item" data-event="hover" data-animation-in="slideInUp" data-animation-out="fadeOut">
@@ -601,6 +603,7 @@
                         <!-- End Pages - Mega Menu -->
                     </li>
                     <!-- End Pages -->
+--}}
 
                 </ul>
             </div>
