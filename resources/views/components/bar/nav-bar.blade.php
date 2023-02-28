@@ -441,14 +441,14 @@
             <div id="navBar" class="navbar-collapse u-header__navbar-collapse collapse order-2 order-xl-0 pt-4 p-xl-0 position-relative">
                 <ul class="navbar-nav u-header__navbar-nav">
                     <!-- Home -->
-                    <li class="nav-item hs-has-sub-menu u-header__nav-item" data-event="hover" data-animation-in="slideInUp" data-animation-out="fadeOut">
-                        <a id="homeMenu" class="nav-link u-header__nav-link  u-header__nav-link-border" href="{{route("home")}}" aria-haspopup="true" aria-expanded="false" aria-labelledby="homeSubMenu">Home</a>
+                    <li class="nav-item  u-header__nav-item" data-event="hover" data-animation-in="slideInUp" data-animation-out="fadeOut">
+                        <a  class="nav-link u-header__nav-link  u-header__nav-link-border" href="{{route("home")}}">Home</a>
 
                     </li>
                     <!-- End Home -->
 
                     <!-- Hotel -->
-                    <li class="nav-item hs-has-sub-menu u-header__nav-item" data-event="hover" data-animation-in="slideInUp" data-animation-out="fadeOut">
+                    <li class="nav-item  u-header__nav-item" data-event="hover" data-animation-in="slideInUp" data-animation-out="fadeOut">
                         <a id="hotelMenu" class="nav-link u-header__nav-link  u-header__nav-link-border" href="{{route("hotels")}}" aria-haspopup="true" aria-expanded="false" aria-labelledby="hotelSubMenu">Hotel</a>
 
                     </li>
